@@ -1,4 +1,4 @@
-<p align="center">Pagina dinâmica para a elaboração de times de colaboradores em diferentes áreas.</p>
+<h1 align="left">Pagina dinâmica para a elaboração de times de colaboradores em diferentes áreas.</h1>
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
